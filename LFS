@@ -1,0 +1,4 @@
+git add TelegramDesktop.zip
+git commit -m "Add large ZIP file"
+git push origin main
+
